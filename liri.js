@@ -168,6 +168,5 @@ function runFileSystem() {
 
     // Loop Through the newly created output array
     userInput(output[2], output[3]);
-    // console.log(output[3]);
   });
 }
